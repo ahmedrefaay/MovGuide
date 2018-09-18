@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_elevation">4dp</dimen>
+    <dimen name="appbar_padding">8dp</dimen>
+    <dimen name="Movie_List_Decoration">2dp</dimen>
+    <dimen name="Movie_OverView_Container_Margin_Top">20dp</dimen>
+    <dimen name="Movie_OverView_Container_Margin_side">10dp</dimen>
+    <dimen name="Movie_Main_Text_Size">19sp</dimen>
+    <dimen name="Movie_attr_Text_Size">16sp</dimen>
+
+</resources>
